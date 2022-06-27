@@ -1,0 +1,25 @@
+html, body {
+    margin: 0px;
+    background-color: #2f4f30;
+    color: white;
+    overflow-x: hidden;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.cart {
+    position: relative;
+    width: 120px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computer-carts, #palyer-carts {
+    height: 190px;
+}
